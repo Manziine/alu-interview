@@ -80,7 +80,7 @@ def minOperations(n):
 - First line of all files is exactly `#!/usr/bin/python3`
 
 ## Author
-Carrie Ybay, Software Engineer at Holberton School
+Ineza Manzi Arnaud
 
 ## Project Information
 - **Weight**: 1
