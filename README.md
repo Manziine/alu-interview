@@ -85,5 +85,4 @@ Ineza Manzi Arnaud
 ## Project Information
 - **Weight**: 1
 - **Project Type**: Novice
-- **Duration**: Sep 1, 2025 - Sep 14, 2025
 - **Repository**: alu-interview
